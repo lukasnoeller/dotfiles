@@ -124,3 +124,5 @@ if [ -f ~/.secrets ]; then
     source ~/.secrets
     set +a
 fi
+alias config='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+set -o vi
