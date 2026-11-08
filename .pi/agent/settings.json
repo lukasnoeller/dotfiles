@@ -1,6 +1,6 @@
 {
   "lastChangelogVersion": "1.4.0",
   "packages": [
-    "npm:talk-pi"
+    "git:github.com/lukasnoeller/talk-pi@local-modifications"
   ]
 }
